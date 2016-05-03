@@ -202,19 +202,19 @@ var projects = {
 		"title" : "Proactive Asset Recovery Tool (PAR Tool)",
 		"dates" : "10/1/2015 - 2/1/2016",
 		"description" : "The Proactive Asset Recovery Tool was created to assist a group of users in returning owed hardware to Cisco.  What was once a process that was done manually offline through excel/email has now evolved into an End to End dynamic system.  The tool was designed and developed by a small team of 8 via the Agile Methodology.  Rally tool was used and I was the SCRUM Master.",
-		"images" : ["images/parpic1.jpg", "images/parpic.jpg"]
+		"images" : ["images/parpic1.JPG", "images/parpic.jpg"]
 	},
 	{	
 		"title" : "Config Automation",
 		"dates" : "12/1/2015 - 1/15/2016",
 		"description" : "Worked to develop a process to automate Oracle ERP setups for new country enablement.  Previously setups could take days to setup for test environments and production go-lives.  With new automation that took days takes minutes and enablement of new operating units are much faster.  Setups are done via interface tables built between front end Oracle form and Oracle back end.",
-		"images" : ["images/config1.jpg", "images/config.jpg"]
+		"images" : ["images/config1.JPG", "images/config.JPG"]
 	},
 	{	
 		"title" : "Brazil Service Replenishment",
 		"dates" : "5/1/2015 - 9/1/2015",
 		"description" : "Created solution to enable new order type in Brazil.  Complex nature of Brazil turned what should have been a simple enablement into an intricate challenge.  End result was successful deployment of solution and revenue over 500K to date.  Waterfall Methodology was used here and I was responsible for creating the functional specifications document for this initiative.",
-		"images" : ["images/brsr.jpg", "images/brsr1.jpg"]
+		"images" : ["images/brsr.JPG", "images/brsr1.JPG"]
 	},
 	],
 };
