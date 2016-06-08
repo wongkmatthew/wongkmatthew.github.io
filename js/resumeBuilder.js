@@ -75,10 +75,17 @@ if(bio.skills.length > 0){
 var work = {
 	"jobs" : [
 	{
+		"employer" : "Adobe",
+		"title" : "Problem Management Anaylst",
+		"location" : "San Jose, California",
+		"dates" : "June 2016 - Present",
+		"description" : "•	TBD<br>"
+	},
+	{
 		"employer" : "Cisco Systems",
 		"title" : "Business Systems Analyst",
 		"location" : "San Jose, California",
-		"dates" : "November 2014 - Present",
+		"dates" : "November 2014 - June 2016",
 		"description" : "•	System Designer and Project Manager of the Proactive Asset Recovery Tool, responsible for aiding the return process of assets valued from $60M - $100M<br>•	Create Oracle ERP setup automation processes, consolidating a two person role into one<br>•	Maintain production, test, and development Oracle environment setups in the Order Management Module<br>•	Solution ERP upgrades to support new business capabilities in the current system environment, specific operating units include UK and Brazil<br>•	Manage Oracle BR100 documents for country enablement, reducing headcount expense by $200,000 per quarter<br>•	Collaborate with customer service business partners to enable service replenishment orders on new system for Brazil, resulting in cost savings of estimated $400,000<br>•	Mentoring two entry level college graduates and responsible for integrating them into Cisco’s culture and success<br>"
 	},
 	{
